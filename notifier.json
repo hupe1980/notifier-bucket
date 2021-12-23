@@ -1,19 +1,19 @@
 {
-    "version": "0.0.1",
+    "version": "0.0.2",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/hupe1980/notifier/releases/download/v0.0.1/notifier_Windows_i386.zip",
+            "url": "https://github.com/hupe1980/notifier/releases/download/v0.0.2/notifier_Windows_i386.zip",
             "bin": [
                 "notifier.exe"
             ],
-            "hash": "5b8a1f4b000a0c2213855f3467daf79b8e4648d0d07acdac4f3553676672f157"
+            "hash": "6d58944a048e1499d45424987a79d6175d4892449d3e4757adef0ae00f4efe5e"
         },
         "64bit": {
-            "url": "https://github.com/hupe1980/notifier/releases/download/v0.0.1/notifier_Windows_x86_64.zip",
+            "url": "https://github.com/hupe1980/notifier/releases/download/v0.0.2/notifier_Windows_x86_64.zip",
             "bin": [
                 "notifier.exe"
             ],
-            "hash": "6768fcdf6871acb4bea0b3644a49123978e84b7f8f56e3b725ffc84f071d6c0e"
+            "hash": "717c93d4f718a44ab0cf92c9215a88cf0e48ce52be84d3cacbb2c17d51afba3b"
         }
     },
     "homepage": "https://github.com/hupe1980/notifier",

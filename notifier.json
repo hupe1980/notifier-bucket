@@ -1,0 +1,22 @@
+{
+    "version": "0.0.1",
+    "architecture": {
+        "32bit": {
+            "url": "https://github.com/hupe1980/notifier/releases/download/v0.0.1/notifier_Windows_i386.zip",
+            "bin": [
+                "notifier.exe"
+            ],
+            "hash": "5b8a1f4b000a0c2213855f3467daf79b8e4648d0d07acdac4f3553676672f157"
+        },
+        "64bit": {
+            "url": "https://github.com/hupe1980/notifier/releases/download/v0.0.1/notifier_Windows_x86_64.zip",
+            "bin": [
+                "notifier.exe"
+            ],
+            "hash": "6768fcdf6871acb4bea0b3644a49123978e84b7f8f56e3b725ffc84f071d6c0e"
+        }
+    },
+    "homepage": "https://github.com/hupe1980/notifier",
+    "license": "MIT",
+    "description": "Tiny helper for publishing notifications on different platforms"
+}
